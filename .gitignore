@@ -15,6 +15,7 @@
 !codeStyles/**
 
 # project specific words
-!dictionaries
+!dictionaries/
+!dictionaries/**
 
 !sqldialects.xml
